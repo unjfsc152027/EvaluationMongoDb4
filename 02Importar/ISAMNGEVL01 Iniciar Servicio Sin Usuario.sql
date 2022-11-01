@@ -1,0 +1,1 @@
+mongod --port 27015 --dbpath D:\MongoDB
